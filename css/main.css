@@ -1,0 +1,29 @@
+body {
+  background-color: #fcfcfc;
+  padding-top: 100px;
+}
+.aside {
+  height: 400px;
+}
+.main {
+  height: 400px;
+}
+.d-flex {
+  display: flex;
+}
+.task-title {
+  font-weight: 400;
+  padding-top: 5px;
+}
+.bg-light {
+  margin-bottom: 2rem;
+}
+.btn {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+.form-control {
+  color: rgb(0, 0, 0);
+  border-style: inset;
+  border: 1px solid;
+}
